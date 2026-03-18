@@ -13,3 +13,4 @@ public class Application
 }
 
 I am unable to slove this conflicts 
+I am creating merge conflicts to solve merge conflicts manually
