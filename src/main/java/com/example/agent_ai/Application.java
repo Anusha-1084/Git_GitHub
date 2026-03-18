@@ -12,9 +12,4 @@ public class Application {
 
 }
 
-
-
-
-
-
-This is my main application changes
+I am creating merge conflicts to solve merge conflicts manually
