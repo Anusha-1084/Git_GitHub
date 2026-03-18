@@ -12,8 +12,4 @@ public class Application
 	}
 }
 
-
-
-
-
-This is my main application changes
+I am unable to slove this conflicts 
